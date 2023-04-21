@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_pyxis.mk
+    $(LOCAL_DIR)/lmodroid_pyxis.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_pyxis-user \
-    lineage_pyxis-userdebug \
-    lineage_pyxis-eng
+    lmodroid_pyxis-user \
+    lmodroid_pyxis-userdebug \
+    lmodroid_pyxis-eng
